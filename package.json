@@ -4,6 +4,6 @@
     "start": "weinre "
   },
   "devDependencies": {
-    "weinre": "~"
+        "weinre": "~2.0.0-pre-I0Z7U9OV"
   }
 }
