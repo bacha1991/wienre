@@ -1,7 +1,7 @@
 {
   "name": "weinre.js",
   "scripts": {
-    "start": "weinre --httpPort 80"
+    "start": "npm i && weinre --httpPort 80"
   },
   "devDependencies": {
         "weinre": "~2.0.0-pre-I0Z7U9OV"
