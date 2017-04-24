@@ -1,0 +1,9 @@
+{
+  "name": "weinre.js",
+  "scripts": {
+    "start": "weinre "
+  },
+  "devDependencies": {
+    "weinre": "~"
+  }
+}
